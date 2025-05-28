@@ -23,7 +23,7 @@
 
 | 💻 Web UI                             |
 |--------------------------------------|
-| ![App Screenshot](./screenshots/main-ui.png) __ |
+| ![App Screenshot](./screenshots/main-ui.png) |
 
 ---
 
