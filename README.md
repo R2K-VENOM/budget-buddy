@@ -1,8 +1,3 @@
-Awesome! Here's your **customized and complete `README.md`** with your GitHub username `R2K-VENOM` included:
-
----
-
-````markdown
 # 💸 Budget Buddy — Full-Stack Expense Tracker
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/R2K-VENOM/budget-buddy)
@@ -57,7 +52,7 @@ Awesome! Here's your **customized and complete `README.md`** with your GitHub us
 ```bash
 git clone https://github.com/R2K-VENOM/budget-buddy.git
 cd budget-buddy
-````
+```
 
 ### 2. Install backend dependencies
 
@@ -104,11 +99,11 @@ npm start
 
 ## 🔄 API Endpoints
 
-| Method | Route                  | Description                |
-| ------ | ---------------------- | -------------------------- |
-| GET    | `/api/transaction`     | Get all transactions       |
-| POST   | `/api/transaction`     | Add a new transaction      |
-| DELETE | `/api/transaction/:id` | Delete a transaction by ID |
+| Method | Route                      | Description                |
+|--------|---------------------------|----------------------------|
+| GET    | `/api/transaction`        | Get all transactions       |
+| POST   | `/api/transaction`        | Add a new transaction      |
+| DELETE | `/api/transaction/:id`    | Delete a transaction by ID |
 
 ---
 
@@ -135,10 +130,10 @@ budget-buddy/
 
 ## 🧪 Future Enhancements
 
-* 🪙 Category filters (e.g., food, bills, travel)
-* 📈 Graphical analytics (pie/bar charts)
-* 🧾 Transaction history export (CSV/PDF)
-* 🔐 Auth (Sign In / Sign Up)
+- 🪙 Category filters (e.g., food, bills, travel)
+- 📈 Graphical analytics (pie/bar charts)
+- 🧾 Transaction history export (CSV/PDF)
+- 🔐 Auth (Sign In / Sign Up)
 
 ---
 
@@ -157,3 +152,5 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 ## 🙌 Acknowledgments
 
 Built with 💙 using the MERN stack. Inspired by real-world budgeting needs.
+
+---
